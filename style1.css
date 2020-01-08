@@ -1,7 +1,8 @@
 body {
-  color: #ff0000;
   width: 50%;
   padding: 5%;
+  position: relative;
+  left: 25%;
 }
 
 ul, li {
