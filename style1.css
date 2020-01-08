@@ -1,14 +1,8 @@
 body {
   color: #ff0000;
-  width: 50%;
-  padding: 5%;
 }
 
-main {
+.jumbotron {
   width: 50%;
   padding: 5%;
-  }
-
-.jumbotron {
-  width: 5%;
 }
