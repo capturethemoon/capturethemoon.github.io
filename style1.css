@@ -1,8 +1,11 @@
 body {
   width: 50%;
   padding: 5%;
+}
+
+.main {
   position: relative;
-  left: 25%;
+  left: 25%;  
 }
 
 ul, li {
