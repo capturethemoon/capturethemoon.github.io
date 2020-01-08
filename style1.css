@@ -4,6 +4,6 @@ body {
   padding: 5%;
 }
 
-li {
+ul, li {
   text-decoration: none;
 }
