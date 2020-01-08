@@ -1,4 +1,8 @@
-  main {
+body {
+  color: red;
+}
+
+main {
   width: 50%;
   padding: 5%;
   }
